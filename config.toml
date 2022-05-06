@@ -1,0 +1,14 @@
+key = ""
+
+[request]
+origins = ["Southbank, Brisbane"]
+destinations = ["Fortitude Valley, Brisbane"]
+departure_time = "2022-05-31T23:59:59.999999999Z"
+avoid = ""
+units = ""
+language = ""
+region = ""
+mode = ""
+traffic_model = "best_guess"
+transit_mode = ""
+transit_routing_preference = ""
