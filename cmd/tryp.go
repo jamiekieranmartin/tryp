@@ -10,7 +10,7 @@ import (
 	"github.com/jamiekieranmartin/tryp"
 )
 
-const cliVersion = "0.0.1"
+const cliVersion = "0.0.3"
 
 const helpMessage = `
 tryp is a minimal wrapper for the Google Maps Platform Distance Matrix API.
