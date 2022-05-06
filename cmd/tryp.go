@@ -10,19 +10,19 @@ import (
 	"github.com/jamiekieranmartin/tryp"
 )
 
-const cliVersion = "0.0.3"
+const cliVersion = "0.0.4"
 
 const helpMessage = `
 tryp is a minimal wrapper for the Google Maps Platform Distance Matrix API.
 	tryp v%s
 
-Usage
+Usage.
 	tryp -key='my super secret key'
 
-Configurable via TOML
+Configurable via TOML.
 	tryp -key='my super secret key' -config "./my-config.toml"
 
-Write to file
+Write to file.
 	tryp -key='my super secret key' -out "./result.json"
 
 `
